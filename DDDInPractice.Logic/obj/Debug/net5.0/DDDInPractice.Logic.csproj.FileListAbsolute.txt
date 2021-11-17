@@ -1,0 +1,12 @@
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\bin\Debug\net5.0\DDDInPractice.Logic.deps.json
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\bin\Debug\net5.0\DDDInPractice.Logic.dll
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\bin\Debug\net5.0\ref\DDDInPractice.Logic.dll
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\bin\Debug\net5.0\DDDInPractice.Logic.pdb
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\obj\Debug\net5.0\DDDInPractice.Logic.csprojAssemblyReference.cache
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\obj\Debug\net5.0\DDDInPractice.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\obj\Debug\net5.0\DDDInPractice.Logic.AssemblyInfoInputs.cache
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\obj\Debug\net5.0\DDDInPractice.Logic.AssemblyInfo.cs
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\obj\Debug\net5.0\DDDInPractice.Logic.csproj.CoreCompileInputs.cache
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\obj\Debug\net5.0\DDDInPractice.Logic.dll
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\obj\Debug\net5.0\ref\DDDInPractice.Logic.dll
+C:\learn\DDL\NewDDLInPractice\Solution1\DDDInPractice.Logic\obj\Debug\net5.0\DDDInPractice.Logic.pdb
